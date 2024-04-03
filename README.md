@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers. Yes, it's vague. On purpose. 
 - 🌱 I’m currently learning C++, MIPS, and SystemVerilog.
 - 💞️ I’m looking to collaborate on nothing. I've got enough schoolwork as it is.
-- 📫 How to reach me: email me at dwojt2@uic.edu
+- 📫 How to reach me: email me at dwojt2@uic.edu, or reach out at my website: https://wojtysiak.one (once I've got it up and running again)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite city in Poland is Kraków!
 
